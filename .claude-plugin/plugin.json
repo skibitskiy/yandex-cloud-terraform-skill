@@ -1,0 +1,9 @@
+{
+  "name": "yandex-cloud-terraform",
+  "version": "1.0.0",
+  "description": "Terraform IaC patterns for Yandex Cloud. Provides resource patterns, naming conventions, and best practices for YDB, S3, Message Queue, Cloud Functions, API Gateway, and Serverless Containers.",
+  "author": {
+    "name": "skibitskiy"
+  },
+  "license": "MIT"
+}

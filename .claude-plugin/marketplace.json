@@ -1,0 +1,32 @@
+{
+  "name": "yandex-cloud-terraform",
+  "owner": {
+    "name": "skibitskiy"
+  },
+  "metadata": {
+    "description": "Terraform IaC patterns and best practices for Yandex Cloud serverless services"
+  },
+  "plugins": [
+    {
+      "name": "yandex-cloud-terraform",
+      "source": "./",
+      "description": "Terraform IaC patterns for Yandex Cloud. Provides resource patterns, naming conventions, and best practices for YDB, S3, Message Queue, Cloud Functions, API Gateway, and Serverless Containers.",
+      "version": "1.0.0",
+      "author": {
+        "name": "skibitskiy"
+      },
+      "repository": "https://github.com/skibitskiy/yandex-cloud-terraform-skill",
+      "license": "MIT",
+      "keywords": [
+        "terraform",
+        "yandex-cloud",
+        "iac",
+        "serverless",
+        "ydb",
+        "cloud-functions",
+        "containers"
+      ],
+      "category": "infrastructure"
+    }
+  ]
+}
